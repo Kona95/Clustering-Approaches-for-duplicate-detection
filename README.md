@@ -1,6 +1,6 @@
 # Clustering Approaches for duplicate detection
 
-Product duplicate detection is an important problem on the Web, as many information aggregators need to deal with this issue. In this work we investigate the impact of various clustering algorithms on a state-of-the-art product duplicate detection method, i.e., MSM. We compare the existing adapted single linkage alogrithm with three high-performance algorithm from the literature: CURE, BIRCH and CLARANS. Using a custom dataset of 1624 television descriptions the best performance in terms of $F_{1}$ is obtained by the single-linkage algorithm but this result is not statistically significant  when compared to CURE. CURE appears on as interesting alternative to adapted single-linkage as it is more robust.
+Product duplicate detection is an important problem on the Web, as many information aggregators need to deal with this issue. In this work we investigate the impact of various clustering algorithms on a state-of-the-art product duplicate detection method, i.e., MSM. We compare the existing adapted single linkage alogrithm with three high-performance algorithm from the literature: CURE, BIRCH and CLARANS. Using a custom dataset of 1624 television descriptions the best performance in terms of F1 is obtained by the single-linkage algorithm but this result is not statistically significant  when compared to CURE. CURE appears on as interesting alternative to adapted single-linkage as it is more robust.
 
 ### Building the project
 In order to build the project, u have to execute the command
